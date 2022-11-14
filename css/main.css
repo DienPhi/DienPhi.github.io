@@ -72,17 +72,17 @@ canvas {
 .img {
   position: absolute;
   left: 50%;
-  top: 63%;
+  top: 60%;
   transform: translate(-50%, -50%);
-  width: 420px;
-  height: 420px;
+  width: 960px;
+  height: 960px;
 }
 
 #pinkboard {
   position: relative;
   top: 0%;
   left: 0%;
-  height: 429px;
+  height: 969px;
 }
 
 .STARDUST1 {
