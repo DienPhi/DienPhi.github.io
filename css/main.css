@@ -74,15 +74,15 @@ canvas {
   left: 50%;
   top: 60%;
   transform: translate(-50%, -50%);
-  width: 960px;
-  height: 960px;
+  width: 420px;
+  height: 420px;
 }
 
 #pinkboard {
   position: relative;
   top: 0%;
   left: 0%;
-  height: 969px;
+  height: 429px;
 }
 
 .STARDUST1 {
